@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="260" height="60">
+<rect x="2" y="8" width="44" height="44" rx="12" fill="#0d1826" stroke="#cda54a" stroke-width="1.5"/>
+<path d="M14 36 L20 22 L26 36" stroke="#cda54a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M16.5 30 H23.5" stroke="#cda54a" stroke-width="2.2" stroke-linecap="round"/>
+<circle cx="35" cy="24" r="5.2" fill="none" stroke="#e9d191" stroke-width="2.2"/>
+<path d="M29 38 C29 34 32 32 35 32 C38 32 41 34 41 38" stroke="#e9d191" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+<text x="56" y="32" font-family="Cairo, Arial, sans-serif" font-size="20" font-weight="800" fill="#f2f0ea">نور الأماكن</text>
+<text x="56" y="50" font-family="Cairo, Arial, sans-serif" font-size="11" font-weight="600" fill="#cda54a">للجبس بورد والدهانات</text>
+</svg>
